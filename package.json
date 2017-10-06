@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Checks the DRY_RUN environment variable",
   "main": "index.js",
-  "repository": "https://github.com/getsentry/dryrun",
+  "repository": "https://github.com/getsentry/node-dryrun",
   "author": "Jan Michael Auer <jan.auer@sentry.io>",
   "license": "BSD-3-Clause",
   "private": false,
