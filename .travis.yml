@@ -6,7 +6,9 @@ git:
 
 node_js:
   - "node"
-  - "lts/*"
+  - "8"
+  - "6"
+  - "4"
 
 deploy:
   provider: npm
