@@ -1,6 +1,6 @@
 {
   "name": "dryrun",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Checks the DRY_RUN environment variable",
   "main": "lib/index.js",
   "repository": "https://github.com/getsentry/node-dryrun",
